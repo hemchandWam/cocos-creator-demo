@@ -47,4 +47,4 @@ A node moves in a circular path around the origin when a button is pressed.
 
 ## License
 
-MIT License. See `LICENSE` for details.
+GPL-3.0 License. See `LICENSE` for details.
